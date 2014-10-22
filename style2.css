@@ -1,0 +1,64 @@
+
+body {
+  
+  font: 20px "Helvetica"; 
+  background-image: url(Pictures/movies.jpg);
+  text-align: center; 
+
+}
+
+table, td, tr{
+	text-align: center; 
+	margin-left: auto;
+	margin-right: auto;
+  border: 2px solid black;
+  border-collapse: collapse;
+  height: 50px;
+  padding: 20px;
+}
+
+h1{
+  font: 40px "Helvetica";
+  font-weight: bold;
+}
+
+td{
+  font-weight: bold;
+}
+
+.top{
+  background-color: black;
+  color: white;
+}
+
+.name {
+  text-align: center; 
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 20px;
+  margin: 80px;
+}
+
+.link{
+  font: 25px "Helvetica";
+}
+
+.smalltext{
+	font: 10px "Helvetica";
+}
+
+img{
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 15px;
+}
+
+a{
+	font: 20px "Helvetica";
+}
+
+a:visited{
+  color: purple;
+}
+
+a:hover{
+  color: orange;
+}
