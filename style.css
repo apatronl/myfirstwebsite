@@ -1,0 +1,63 @@
+
+body {
+  
+  font: 20px "Helvetica"; 
+  background-image: url(Pictures/background.jpg);
+  text-align: center; 
+
+}
+
+.name {
+  font: 50px "Helvetica";
+  font-weight: bold;
+  text-align: center; 
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  margin: 80px;
+}
+
+p{
+  font: 20px "Helvetica";
+  text-align: justify;
+  margin: 30px;
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 25px;
+}
+
+.smalltext{
+	font: 10px "Helvetica";
+}
+
+.mediumtext{
+	font: 20px "Helvetica";
+	font-style: italic;
+}
+
+.booktitle{
+	font: 25px "Helvetica";
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.link{
+  font: 25px "Helvetica";
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 20px;
+}
+
+img{
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 15px;
+}
+
+a{
+  font: 20px "Helvetica";
+}
+
+a:visited{
+  color: purple;
+}
+
+a:hover{
+  color: orange;
+}
